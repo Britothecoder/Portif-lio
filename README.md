@@ -11,6 +11,8 @@ Portfólio em formato de carrossel de João Vitor de Oliveira Brito. Este docume
 npm install
 npm run dev
 
+## Explicação geral do projeto:
+
 1. Visão geral
 O site é uma página única (SPA) com quatro slides navegáveis na horizontal: Início, Habilidades, Sobre mim e Experiências. Não há rotas, backend nem bibliotecas além do React.
 Princípios adotados no projeto:
