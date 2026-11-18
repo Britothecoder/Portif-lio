@@ -36,7 +36,7 @@ npm run build    # gera a pasta dist para produção
 npm run preview  # serve o build localmente
 
 4. Estrutura de pastas
-portfolio-joao/
+portfolio/
 ├── index.html                 # HTML base, fontes e meta tags
 ├── package.json               # dependências e scripts
 ├── vite.config.js             # configuração do Vite
