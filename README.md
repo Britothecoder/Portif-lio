@@ -1,4 +1,4 @@
-Documentação técnica do Portfólio (React + Vite):
+## Documentação técnica do Portfólio (React + Vite):
 
 Portfólio em formato de carrossel de João Vitor de Oliveira Brito. Este documento explica como o código está organizado e o que cada arquivo faz.
 
